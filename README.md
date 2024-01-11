@@ -2,14 +2,11 @@
 patent_analysis module
 
 # 사용 데이터
-https://mysnu-my.sharepoint.com/:f:/g/personal/tkdgus9910_seoul_ac_kr/EnG_ymqkS9JFoMZ4UCkaK-gBI6kDmfgHbGBK5P8kcyuW9g?e=PDBFzM
+데이터 
 
 # 주요 환경
-python==3.11.5  
-bertopic==0.15.0  
-transformers==4.34.1  
-torch==2.1.2  
+python==3.xx  
+torch==2.xx
 
-# 주요 패키지 설치
+# 주요 패키지
 conda install -c conda-forge bertopic  
-conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia
