@@ -4,7 +4,8 @@ patent_analysis module
 # 사용 데이터
 데이터 
 
-# 주요 환경
+# 구동 환경
+os==window 10
 python==3.xx  
 torch==2.xx
 
